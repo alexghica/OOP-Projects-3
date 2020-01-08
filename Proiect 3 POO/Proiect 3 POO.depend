@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1578482302 source:e:\proiect 3 poo\proiect 3 poo\main.cpp
+	<iostream>
+	<vector>
+	"numerar.h"
+	"plata.h"
+	"cec.h"
+	"card.h"
+	"gestiune.h"
+
+1577962548 source:e:\proiect 3 poo\proiect 3 poo\plata.cpp
+	<iostream>
+	<vector>
+	"numerar.h"
+	"plata.h"
+
+1577965690 e:\proiect 3 poo\proiect 3 poo\plata.h
+	<iostream>
+	<vector>
+	"numerar.h"
+
+1577969113 e:\proiect 3 poo\proiect 3 poo\numerar.h
+	<iostream>
+	<vector>
+	"plata.h"
+
+1577963938 source:e:\proiect 3 poo\proiect 3 poo\numerar.cpp
+	<iostream>
+	<vector>
+	"numerar.h"
+	"plata.h"
+
+1577969113 source:e:\proiect 3 poo\proiect 3 poo\cec.cpp
+	<iostream>
+	<vector>
+	"numerar.h"
+	"plata.h"
+	"cec.h"
+
+1577969113 e:\proiect 3 poo\proiect 3 poo\cec.h
+	<iostream>
+	<vector>
+	"numerar.h"
+	"plata.h"
+
+1577978112 source:e:\proiect 3 poo\proiect 3 poo\card.cpp
+	<iostream>
+	<vector>
+	"numerar.h"
+	"plata.h"
+	"cec.h"
+	"card.h"
+
+1577970132 e:\proiect 3 poo\proiect 3 poo\card.h
+	<iostream>
+	<vector>
+	"numerar.h"
+	"plata.h"
+
+1577977716 source:e:\proiect 3 poo\proiect 3 poo\gestiune.cpp
+	<iostream>
+	<vector>
+	"numerar.h"
+	"plata.h"
+	"cec.h"
+	"card.h"
+	"gestiune.h"
+
+1577977814 e:\proiect 3 poo\proiect 3 poo\gestiune.h
+	<iostream>
+	<vector>
+
